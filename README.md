@@ -40,22 +40,14 @@ https://weather-app-smoky-three-68.vercel.app | https://github.com/levyng00/weat
    npm install
    ```
 
-3. **Set up environment variables**
 
-   ```bash
-   # Create a .env file in the root directory
-   echo "VITE_WEATHER_API_KEY=your_openweathermap_api_key" > .env
-   ```
-
-
-
-4. **Start the development server**
+3. **Start the development server**
 
    ```bash
    npm run dev
    ```
 
-5. **Open your browser**
+4. **Open your browser**
    Navigate to `http://localhost:5173`
 
 ## 🏗️ Project Structure
