@@ -123,7 +123,7 @@ npm run lint         # Run ESLint
 
 ## 📧 Contact
 
-Your Name - www.linkedin.com/in/levy-ng
+ linkedin : www.linkedin.com/in/levy-ng
 
 Project Link: https://weather-app-smoky-three-68.vercel.app
 ---
