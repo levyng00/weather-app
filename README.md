@@ -14,7 +14,7 @@ A modern, responsive weather application built with React and Vite, featuring re
 
 ## 🚀 Demo
 
-https://weather-app-smoky-three-68.vercel.app | [GitHub Repository](https://github.com/yourusername/weather-app)
+https://weather-app-smoky-three-68.vercel.app | https://github.com/levyng00/weather-app
 
 ## 🛠️ Tech Stack
 
@@ -121,19 +121,6 @@ npm run lint         # Run ESLint
 - React Query caching reduces unnecessary API calls
 - Efficient component re-renders
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -144,7 +131,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
+Your Name - www.linkedin.com/in/levy-ng
 
 Project Link: https://weather-app-smoky-three-68.vercel.app
 ---
