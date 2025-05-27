@@ -14,7 +14,7 @@ A modern, responsive weather application built with React and Vite, featuring re
 
 ## 🚀 Demo
 
-[Live Demo](https://your-weather-app-demo.vercel.app) | [GitHub Repository](https://github.com/yourusername/weather-app)
+https://weather-app-smoky-three-68.vercel.app | [GitHub Repository](https://github.com/yourusername/weather-app)
 
 ## 🛠️ Tech Stack
 
@@ -47,7 +47,7 @@ A modern, responsive weather application built with React and Vite, featuring re
    echo "VITE_WEATHER_API_KEY=your_openweathermap_api_key" > .env
    ```
 
-   Get your free API key from [OpenWeatherMap](https://openweathermap.org/api)
+
 
 4. **Start the development server**
 
@@ -146,8 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
 
-Project Link: [https://github.com/yourusername/weather-app](https://github.com/yourusername/weather-app)
-
+Project Link: https://weather-app-smoky-three-68.vercel.app
 ---
 
 ⭐ Star this repo if you found it helpful!
